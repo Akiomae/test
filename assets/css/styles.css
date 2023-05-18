@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --rosa-primario: #f4a4ab;
+    --amarillo-primario: #feec44;
+    --azul-primario: #04a6fb;
+    --verde-primario: #3fdc6d;
+}
